@@ -13,3 +13,11 @@ Although it is hard to summarize all I have been taught throughout my time withi
 SNHU, along with all of the courses throughout the Computer Science program have helped me obtain the necessary skills and knowledge to position my self for a job within the software engineering field. CS-330 did a great job at teaching me patience and attention to detail while working on 100's of vertices and learning how to join them all together along with the textures and lighting to make a visual representation of a picture I was modeling it after. CS-340 was a great lesson on data structures and algorithms, dealing with arrays and other necessary data structures. Lastly, DAD-220 showed me the importance of MySQL dealing with tables and how to correctly structure databases to produce a finely polished work for clients.
 
 I have learned so much more within my time with SNHU and is definitely not restricted to the classes listed above. The classes that were named are some great examples of what I went back through and enhanced throughout my time with CS-499 in preperation for my final and this ePortfolio. 
+
+
+**Porfolio Links**<br>
+* [Professional Self-Assessment](https://dustynwe.github.io/index.html)<br>
+* [Refinement Plan & Code Review](https://dustynwe.github.io/CodeReview.html)<br>
+* [Software Design & Engineering Enhancement](https://dustynwe.github.io/EnhancementOne.html)<br>
+* [Algorithms & Data Structure Enhancement](https://dustynwe.github.io/EnhancementTwo.html)<br>
+* [Databases Enhancement](https://dustynwe.github.io/EnhancementThree.html)
