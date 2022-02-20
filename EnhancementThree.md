@@ -6,7 +6,7 @@ I decided to include this within my ePortfolio because it shows I have a grasp o
 
 I did not face any insane challenges. I learned the vastness a table and its columns can have though. They can get very specific and in depth with the right amount of time. There is also a whole lot of things you can do within SQL. If I were to go back to this code someday, I would like to add some additional functionality so that it can be used via a mobile app so to speak where items can be added or deleted on command.
 
-This enhancement shows that I have a grasp on the basics of MySQL. It shows that I am comfortable creating tables, columns within those tables, and information pertaining to the columns with all the necessary inputs. 
+This enhancement shows that I have a grasp on the basics of MySQL, It also shows that I am comfortable creating tables, columns within those tables, and information pertaining to the columns with all the necessary inputs. 
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://dustynwe.github.io/index.html)<br>
