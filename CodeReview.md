@@ -10,8 +10,6 @@ For this enhancement, I chose to work on a snippet of code I was working on earl
 
 For this enhancement, I am working on a table made early on in my time within class DAD 220. It is a SQL artifact that is supposed to help a mechanic/auto shop keep track of where their parts are and the information pertaining to their parts. I plan to enhance this artifact by adding additional information (brand name of parts and their availability) to my existing table. I also plan on adding another table altogether that displays information about parts that a specific store should be expecting. This is to better communicate with customers on parts that you might not have in stock but are expecting. This additional table has all the same information as the first table, along with information about what store it is coming from and when the part should be arriving to your location. 
 
-This enhancement shows that I have a grasp on the basics of MySQL. It shows that I am comfortable creating tables, columns within those tables, and information pertaining to the columns with all the necessary inputs. 
-
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://dustynwe.github.io/index.html)<br>
 * [Refinement Plan & Code Review](https://dustynwe.github.io/CodeReview.html)<br>
