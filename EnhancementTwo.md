@@ -6,7 +6,7 @@ The reason I selected this item for enhancement is because I felt that with a li
 
 I did not meet any challenges while adding in the average of sales. Any information I needed was readily available with a quick Google search. I would say the may takeaway from working with this project was that there is so much more that you can do with array than I ever thought was possible. Soon I may make another array and just set up the most random, in-depth code I can just to learn more about all the options. 
 
-This enhancement shows my understanding of arrays, and how to properly use arrays to output helpful information.
+This enhancement shows my understanding of arrays and how to properly use arrays to output helpful information.
 
 
 **Porfolio Links**<br>
