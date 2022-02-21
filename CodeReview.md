@@ -12,7 +12,7 @@ For this enhancement, I am working on a table made early on in my time within cl
 
 **Video Code Review**
 
-<iframe width="560" height="315" src="https://youtu.be/QIK0fM3NLWg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/QIK0fM3NLWg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://dustynwe.github.io/index.html)<br>
