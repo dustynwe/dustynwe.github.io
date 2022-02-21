@@ -8,6 +8,10 @@ I did not meet any challenges while adding in the average of sales. Any informat
 
 This enhancement shows my understanding of arrays and how to properly use arrays to output helpful information.
 
+**Link to polished python array code**
+
+https://onlinegdb.com/rUlZdFDRD
+
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://dustynwe.github.io/index.html)<br>
