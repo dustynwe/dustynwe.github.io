@@ -8,7 +8,7 @@ As I was going back through this artifact and trying to fix the textures, I real
 
 This enhancement certaintly demonstraed my tenacity in problem solving along with code annotations to ensure whoever is viewing the source code can pick up where I left off with no confusion.
 
-**To view my polished 3D render please click on Refinement Plan & Code Review below, then scroll to the bottom to watch my embedded video and showcase 3D scene in action!**
+**To view my polished 3D render please click on Refinement Plan & Code Review below, then scroll to the bottom to watch my embedded video and showcase 3D scene in action.**
 
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://dustynwe.github.io/index.html)<br>
