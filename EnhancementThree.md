@@ -8,6 +8,10 @@ I did not face any insane challenges. I learned the vastness a table and its col
 
 This enhancement shows that I have a grasp on the basics of MySQL, It also shows that I am comfortable creating tables, columns within those tables, and information pertaining to the columns with all the necessary inputs. 
 
+**Link to Mechanic/Autoshop Inventory Database**
+
+https://livesql.oracle.com/apex/livesql/s/m3pjrwreo834cxerxu95p9k88
+
 **Porfolio Links**<br>
 * [Professional Self-Assessment](https://dustynwe.github.io/index.html)<br>
 * [Refinement Plan & Code Review](https://dustynwe.github.io/CodeReview.html)<br>
