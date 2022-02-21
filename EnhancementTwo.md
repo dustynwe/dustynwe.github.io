@@ -8,7 +8,7 @@ I did not meet any challenges while adding in the average of sales. Any informat
 
 This enhancement shows my understanding of arrays and how to properly use arrays to output helpful information.
 
-**Copy and paste the link below to view my Store Sales python array code!**
+**Click the link below to view my Store Sales python array code!**
 
 [Link to Store Sales code](https://onlinegdb.com/rUlZdFDRD)
 
