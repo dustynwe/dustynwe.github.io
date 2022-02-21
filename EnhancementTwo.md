@@ -10,7 +10,7 @@ This enhancement shows my understanding of arrays and how to properly use arrays
 
 **Copy and paste the link below to view my Store Sales python array code!**
 
-[Link to code] (https://onlinegdb.com/rUlZdFDRD)
+[Link to Store Sales code](https://onlinegdb.com/rUlZdFDRD)
 
 
 **Porfolio Links**<br>
